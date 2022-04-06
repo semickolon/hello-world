@@ -7,3 +7,4 @@ sus3 electric boogaloo
 - Warioware clone
 - Vampire Survivors clone
 - Hotline Miami clone
+- Color Based Shooting Game
