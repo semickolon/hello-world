@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/semickolon/hello-world/issues"
   },
-  "homepage": "https://github.com/semickolon/hello-world#readme"
+  "homepage": "https://github.com/semickolon/hello-world#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "fs-extra": "^10.0.1"
+  }
 }
