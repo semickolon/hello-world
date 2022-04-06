@@ -1,0 +1,23 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "This is an application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semickolon/hello-world.git"
+  },
+  "keywords": [
+    "sample",
+    "sampel"
+  ],
+  "author": "Polychroma Games",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/semickolon/hello-world/issues"
+  },
+  "homepage": "https://github.com/semickolon/hello-world#readme"
+}
